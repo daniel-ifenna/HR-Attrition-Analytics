@@ -16,7 +16,7 @@ Provided targeted recommendations for improving retention and inclusivity.
 Tools Used:
 Power BI • Data Visualization
 
-![](/def96c86639de5473811bc9babb39275f1bf4f38/image.png)
+![](960b9aa3388209d25e38616c877e91a84f88144e/image.png)
 - [Download Report](HR%20Attrition%20Analytics%20Report.docx)
 - [Power BI Dashboard](HR%20Attrition%20Dashboard%20Analytics.pbix)
 - [Power Bi Dashboard Pdf](Dasboard%20HR%20attrition.pdf)
