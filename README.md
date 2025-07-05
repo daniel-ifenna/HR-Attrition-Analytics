@@ -17,6 +17,6 @@ Tools Used:
 Power BI • Data Visualization
 
 ![](def96c86639de5473811bc9babb39275f1bf4f38/image.png)
-[Download Report](HR%20Attrition%20Analytics%20Report.docx)
-[Power BI Dashboard](HR%20Attrition%20Dashboard%20Analytics.pbix)
-[Power Bi Dashboard Pdf](Dasboard%20HR%20attrition.pdf)
+- [Download Report](HR%20Attrition%20Analytics%20Report.docx)
+- [Power BI Dashboard](HR%20Attrition%20Dashboard%20Analytics.pbix)
+- [Power Bi Dashboard Pdf](Dasboard%20HR%20attrition.pdf)
