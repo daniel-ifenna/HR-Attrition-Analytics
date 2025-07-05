@@ -16,7 +16,7 @@ Provided targeted recommendations for improving retention and inclusivity.
 Tools Used:
 Power BI • Data Visualization
 
-[](/def96c86639de5473811bc9babb39275f1bf4f38/image.png)
-![Download Report]()
-![Power Bi Dashboard]()
-![Power Bi Dashboard Pdf]()
+![](/def96c86639de5473811bc9babb39275f1bf4f38/image.png)
+[Download Report]()
+[Power BI Dashboard]()
+[Power Bi Dashboard Pdf]()
