@@ -7,7 +7,7 @@ Analyzed 10 years of employee data (1,470 records; 237 attritions).
 
 Explored attrition by age, gender, education, ethnicity, department, and role.
 
-Found highest attrition in Technology & Sales departments.
+Found the highest attrition in the Technology & Sales departments.
 
 Identified compensation, tenure, and training opportunities as major attrition predictors.
 
@@ -16,3 +16,7 @@ Provided targeted recommendations for improving retention and inclusivity.
 Tools Used:
 Power BI • Data Visualization
 
+[](/def96c86639de5473811bc9babb39275f1bf4f38/image.png)
+![Download Report]()
+![Power Bi Dashboard]()
+![Power Bi Dashboard Pdf]()
